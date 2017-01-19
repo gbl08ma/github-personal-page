@@ -1,3 +1,7 @@
 [submodule "themes/cocoa-eh-hugo-theme"]
 	path = themes/cocoa-eh-hugo-theme
 	url = git@github.com:gbl08ma/cocoa-eh-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:gbl08ma/gbl08ma.github.io.git
+	branch = master
