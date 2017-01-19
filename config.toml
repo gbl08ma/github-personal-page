@@ -1,0 +1,27 @@
+baseurl = "https://gbl08ma.github.com/"
+theme = "cocoa-eh-hugo-theme"
+builddrafts = true
+canonifyurls = true
+contentdir = "content"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+author = "Gabriel Maia"
+title = "gbl08ma"
+disqusshortname = ""
+pluralizelisttitles = false
+
+[permalinks]
+blog = "blog/:slug/"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+description = "gbl08ma's project index"
+logofile = "img/logo.png"
+faviconfile = "img/logo.png"
+highlightjs = true
+lang = "en"
+github = "https://github.com/gbl08ma"
+email = "gabriel@tny.im"
+twitter = "https://twitter.com/gbl08ma"
