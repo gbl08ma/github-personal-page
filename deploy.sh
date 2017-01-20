@@ -17,7 +17,7 @@ msg="Rebuilding website, source commit $curcommit"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
-git commit -m "$msg"
+git commit -m "$msg" --allow-empty
 
 # Push source and build repos.
 git push origin master
