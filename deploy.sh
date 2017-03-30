@@ -9,6 +9,9 @@ curcommit=$(git rev-parse HEAD)
 
 # Go To Public folder
 cd public
+
+git checkout master
+
 # Add changes to git.
 git add -A
 
