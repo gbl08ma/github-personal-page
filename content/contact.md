@@ -12,7 +12,7 @@ You can reach me at one of my email addresses:
 
 ...or through matrix.org: `@gbl08ma:matrix.org`
 
-...or in 140 characters or less: https://twitter.com/gbl08ma
+...or in 280 characters or less: https://twitter.com/gbl08ma
 
 ...or through Telegram: search for gbl08ma
 
