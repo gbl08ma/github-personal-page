@@ -5,7 +5,7 @@ title = "Eigenmath"
 
 **[See on GitHub](https://github.com/gbl08ma/eigenmath)** | [Discussion thread at Cemetech](https://www.cemetech.net/forum/viewtopic.php?t=9419)
 
-A port of the Eigenmath symbolic math engine to the fx-CG 10/20 calculators.
+A port of the Eigenmath symbolic math engine to the fx-CG 10 / 20 calculators.
 
 I built all of the UI, which is a console with many bells and whistles to make it usable on the calculator's keyboard and screen. I also had to dive in the internals of the engine to fix some bugs, optimize the memory usage and implement expression pretty-printing and function graphing (it's a graphic calc, after all!).
 

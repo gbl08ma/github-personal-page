@@ -5,7 +5,7 @@ title = "Utilities"
 
 **[See on GitHub](https://github.com/gbl08ma/utilities)** | [Discussion thread at Cemetech](https://www.cemetech.net/forum/viewtopic.php?t=8245)
 
-An add-in for the Casio fx-CG 10/20 calculators that provides many tools, including:
+An add-in for the Casio fx-CG 10 / 20 calculators that provides many tools, including:
 
 - a complete file manager, with file search, clipboard, compression (using the heatshrink lib)...
 - text editor
