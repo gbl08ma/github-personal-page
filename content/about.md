@@ -3,7 +3,7 @@ date = "2017-01-18"
 title = "About"
 +++
 
-`gbl08ma` is the awkward username that I, a 20 years old guy called Gabriel Maia, have been using on the internet for the last ten years. So despite not using social networks very much if at all, I'm extremely traceable - go ahead and Google me.
+`gbl08ma` is the awkward username that I, a 21 years old guy called Gabriel Maia, have been using on the internet for the last ten years. So despite not using social networks very much if at all, I'm extremely traceable - go ahead and Google me.
 
 I'm a software developer: I build websites, desktop apps, Android apps, embedded software for things like the ESP8266 and graphical calculators, and more. I have been doing this for the last... five years? Make that nine years if you count completely useless beginner projects. If you are _really_ interested in knowing more, I wrote [a lengthy post about it](https://gbl08ma.com/my-programming-experience/).
 
