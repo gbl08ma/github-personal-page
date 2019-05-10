@@ -3,13 +3,13 @@ date = "2017-01-18"
 title = "About"
 +++
 
-`gbl08ma` is the awkward username that I, a 21 years old guy called Gabriel Maia, have been using on the internet for the last ten years. So despite not using social networks very much if at all, I'm extremely traceable - go ahead and Google me.
+`gbl08ma` is the awkward username that I, a 22 years old guy called Gabriel Maia, have been using on the internet for the last ten years. So despite not using social networks very much if at all, I'm extremely traceable - go ahead and Google me.
 
 I'm a software developer: I build websites, desktop apps, Android apps, embedded software for things like the ESP8266 and graphical calculators, and more. I have been doing this for the last... six years? Make that ten years if you count completely useless beginner projects. If you are _really_ interested in knowing more, I wrote [a lengthy post about it](https://gbl08ma.com/my-programming-experience/).
 
-I don't do this for a living, yet. I'm just a broke student, currently pursuing a Master's degree on information systems and computer engineering, specialising in Distributed Systems, at [Técnico Lisboa](http://tecnico.ulisboa.pt).
+I don't do this for a living, yet. I'm just a broke student, currently pursuing a Master's degree on information systems and computer engineering, specialising in Distributed Systems and Security, at [Técnico Lisboa](http://tecnico.ulisboa.pt).
 
-I have a bit of experience in systems administration, after maintaining my own Linux servers for the past five years (as well as my local machines, for longer). And because the things I make need logos and advertising materials, I'm my own poor man's graphic designer. Very rarely, I also dabble in sound design.
+Besides programming, I have experience in systems administration, after maintaining my own Linux servers for the past five years (as well as my local machines, for longer). And because the things I make need logos and advertising materials, I'm my own poor man's graphic designer. Very rarely, I also dabble in sound design.
 
 I like working alone, but I think it would be great to find other people to work on side projects with me. First there was _tny. internet media_, now [_Segvault_](http://segvault.tny.im)... I never actively tried to find people with matching interests in terms of software to develop, and my current team members aren't too interested. So, we're open to getting more people onboard. Drop me a line if you're interested.
 
